@@ -43,7 +43,7 @@
 				"support.constant.color"
 			],
 			"settings": {
-				"foreground": "#b5cea8"
+				"foreground": "#00be6d"
 			}
 		},
 		{
@@ -113,13 +113,13 @@
 		{
 			"scope": "markup.inserted",
 			"settings": {
-				"foreground": "#b5cea8"
+				"foreground": "#00be6d"
 			}
 		},
 		{
 			"scope": "markup.deleted",
 			"settings": {
-				"foreground": "#e0e17c"
+				"foreground": "#00bc6c"
 			}
 		},
 		{
@@ -152,13 +152,13 @@
 		{
 			"scope": "meta.preprocessor.string",
 			"settings": {
-				"foreground": "#e0e17c"
+				"foreground": "#00bc6c"
 			}
 		},
 		{
 			"scope": "meta.preprocessor.numeric",
 			"settings": {
-				"foreground": "#b5cea8"
+				"foreground": "#00be6d"
 			}
 		},
 		{
@@ -188,19 +188,19 @@
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#e0e17c"
+				"foreground": "#00bc6c"
 			}
 		},
 		{
 			"scope": "string.tag",
 			"settings": {
-				"foreground": "#e0e17c"
+				"foreground": "#00bc6c"
 			}
 		},
 		{
 			"scope": "string.value",
 			"settings": {
-				"foreground": "#e0e17c"
+				"foreground": "#00bc6c"
 			}
 		},
 		{
@@ -266,7 +266,7 @@
 		{
 			"scope": "keyword.other.unit",
 			"settings": {
-				"foreground": "#b5cea8"
+				"foreground": "#00be6d"
 			}
 		},
 		{
@@ -278,7 +278,7 @@
 		{
 			"scope": "constant.sha.git-rebase",
 			"settings": {
-				"foreground": "#b5cea8"
+				"foreground": "#00be6d"
 			}
 		},
 		{
@@ -378,7 +378,7 @@
 				"support.constant.color"
 			],
 			"settings": {
-				"foreground": "#e0e17c"
+				"foreground": "#00bc6c"
 			}
 		}
 	]
