@@ -32,7 +32,7 @@
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#bf00ff"
 			}
 		},
 		{
@@ -55,7 +55,7 @@
 		{
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#bf00ff"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#9cdcfe"
+				"foreground": "#e5f6ff"
 			}
 		},
 		{
@@ -119,13 +119,13 @@
 		{
 			"scope": "markup.deleted",
 			"settings": {
-				"foreground": "#ce9178"
+				"foreground": "#e0e17c"
 			}
 		},
 		{
 			"scope": "markup.changed",
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#bf00ff"
 			}
 		},
 		{
@@ -146,13 +146,13 @@
 		{
 			"scope": "meta.preprocessor",
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#bf00ff"
 			}
 		},
 		{
 			"scope": "meta.preprocessor.string",
 			"settings": {
-				"foreground": "#ce9178"
+				"foreground": "#e0e17c"
 			}
 		},
 		{
@@ -164,43 +164,43 @@
 		{
 			"scope": "meta.structure.dictionary.key.python",
 			"settings": {
-				"foreground": "#9cdcfe"
+				"foreground": "#e5f6ff"
 			}
 		},
 		{
 			"scope": "storage",
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#bf00ff"
 			}
 		},
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#bf00ff"
 			}
 		},
 		{
 			"scope": "storage.modifier",
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#bf00ff"
 			}
 		},
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#ce9178"
+				"foreground": "#e0e17c"
 			}
 		},
 		{
 			"scope": "string.tag",
 			"settings": {
-				"foreground": "#ce9178"
+				"foreground": "#e0e17c"
 			}
 		},
 		{
 			"scope": "string.value",
 			"settings": {
-				"foreground": "#ce9178"
+				"foreground": "#e0e17c"
 			}
 		},
 		{
@@ -218,7 +218,7 @@
 				"punctuation.definition.template-expression.end.js"
 			],
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#bf00ff"
 			}
 		},
 		{
@@ -236,13 +236,13 @@
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#bf00ff"
 			}
 		},
 		{
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#bf00ff"
 			}
 		},
 		{
@@ -260,7 +260,7 @@
 				"keyword.operator.logical.python"
 			],
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#bf00ff"
 			}
 		},
 		{
@@ -296,7 +296,7 @@
 			"name": "coloring of the TS this",
 			"scope": "variable.language.this",
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#bf00ff"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 				"support.constant.handlebars"
 			],
 			"settings": {
-				"foreground": "#DCDCAA"
+				"foreground": "#79d4fd"
 			}
 		},
 		{
@@ -321,7 +321,7 @@
 				"source.cs storage.type"
 			],
 			"settings": {
-				"foreground": "#4EC9B0"
+				"foreground": "#21acc1"
 			}
 		},
 		{
@@ -335,14 +335,14 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#4EC9B0"
+				"foreground": "#21acc1"
 			}
 		},
 		{
 			"name": "Control flow keywords",
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#C586C0"
+				"foreground": "#bf00ff"
 			}
 		},
 		{
@@ -353,7 +353,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#e5f6ff"
 			}
 		},
 		{
@@ -363,7 +363,7 @@
 				"meta.object-literal.key entity.name.function"
 			],
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#e5f6ff"
 			}
 		},
 		{
@@ -378,7 +378,7 @@
 				"support.constant.color"
 			],
 			"settings": {
-				"foreground": "#CE9178"
+				"foreground": "#e0e17c"
 			}
 		}
 	]
