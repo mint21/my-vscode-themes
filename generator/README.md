@@ -5,6 +5,6 @@ Run this from the project's root directory to create the generator image and run
 
 ```bash
 podman build -t vscode-generator-code ./generator
-podman run -it -v $(pwd):/usr/src/app vscode-generator-code
+podman run -it -v $(pwd)/themes:/usr/src/app vscode-generator-code
 ```
 

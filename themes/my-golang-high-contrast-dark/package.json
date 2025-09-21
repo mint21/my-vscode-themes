@@ -1,0 +1,21 @@
+{
+  "name": "my-golang-high-contrast-dark",
+  "displayName": "my-golang-high-contrast-dark",
+  "description": "my-golang-high-contrast-dark",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "my-golang-high-contrast-dark",
+        "uiTheme": "hc-black",
+        "path": "./themes/my-golang-high-contrast-dark-color-theme.json"
+      }
+    ]
+  }
+}
