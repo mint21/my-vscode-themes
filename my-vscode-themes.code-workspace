@@ -1,8 +1,21 @@
 {
-    "folders": [
-		{
-			"path": "./themes/my-golang-high-contrast-dark"
-		}
-	],
-	"settings": {}
+  "folders": [
+    {
+      "path": "./themes/my-golang-high-contrast-dark"
+    }
+  ],
+  "settings": {},
+  "launch": {
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Debug my-golang-high-contrast-dark",
+        "type": "extensionHost",
+        "request": "launch",
+        "args": [
+          "--extensionDevelopmentPath=${workspaceFolder:my-golang-high-contrast-dark}"
+        ]
+      }
+    ]
+  }
 }
